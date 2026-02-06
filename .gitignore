@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Model files
+*.keras
+*.h5
+*.pth
+*.pt
+
+# Dataset
+Dataset/
+archive/
+test_dataset/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
