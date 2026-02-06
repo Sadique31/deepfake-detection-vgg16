@@ -117,7 +117,18 @@ The trained VGG16-based deepfake detection model shows strong and stable perform
 
 ---
 
+## Future Work
+
+- Extend the system to video-level deepfake detection
+- Train and evaluate on larger benchmark datasets such as DFDC or FaceForensics++
+- Experiment with more advanced architectures like EfficientNet or Vision Transformers
+- Improve robustness against low-resolution and compressed images
+
+
 ---
+
+## How to Run the Project
+
 ```
 
 How to Run the Project
