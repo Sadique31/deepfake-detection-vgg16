@@ -1,5 +1,10 @@
 # Deepfake Detection using VGG16 and MTCNN
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 **Topics:** computer-vision • deep-learning • transfer-learning • mtcnn-face-detection • vgg16-model • deepfake-detection • ai-ml
 
 This repository presents a complete deepfake detection pipeline based on face detection using **MTCNN** and binary classification using a **VGG16 (transfer learning)** model. The project is designed with a clear, modular structure to ensure reproducibility, clarity, and professional presentation.
