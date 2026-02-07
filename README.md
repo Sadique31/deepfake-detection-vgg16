@@ -152,7 +152,7 @@ python train.py
 
 # Author
 
-* Sadique Nomani *  
+*Sadique Nomani*  
 B.Tech Computer Science Engineering  
 Project Lead
 
@@ -160,7 +160,7 @@ Project Lead
 
 # Contributors
 
-•⁠  ⁠Mayank Pandey*  
+•⁠  ⁠Mayank Pandey* 
 •⁠  ⁠Mansi Jain  
 •⁠  ⁠Vaishali Negi  
 •⁠  ⁠Vasudha Sharma  
