@@ -160,9 +160,12 @@ Project Lead
 
 # Contributors
 
-•⁠  ⁠Mayank Pandey* 
+•⁠  ⁠Mayank Pandey*
+
 •⁠  ⁠Mansi Jain  
+
 •⁠  ⁠Vaishali Negi  
+
 •⁠  ⁠Vasudha Sharma  
 
 ---
