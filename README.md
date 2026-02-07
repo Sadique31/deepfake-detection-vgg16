@@ -105,7 +105,6 @@ Sample output given an input image:
 Prediction: REAL  
 Confidence: 0.024
 
-
 # Installation
 
 Clone the repository:
