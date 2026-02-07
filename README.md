@@ -27,7 +27,9 @@ This project performs image classification to determine whether a given face ima
 
 11.⁠ ⁠[Future Work](#future-work)
 
-12.⁠ ⁠[Contributors](#contributors)
+12.[Author](#author)
+
+13.⁠ ⁠[Contributors](#contributors)
 
 # Introduction
 
