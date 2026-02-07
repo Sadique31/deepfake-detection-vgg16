@@ -3,5 +3,4 @@ __pycache__/
 *.pyc
 *.h5
 *.keras
-*.png
 .ipynb_checkpoints/
