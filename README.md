@@ -25,9 +25,9 @@ This project performs image classification to determine whether a given face ima
  
 10.⁠ ⁠[Requirements](#requirements)
 
-11.⁠ ⁠[Contributors](#contributors)
+11.⁠ ⁠[Future Work](#future-work)
 
-12.⁠ ⁠[Future Work](#future-work)
+12.⁠ ⁠[Contributors](#contributors)
 
 # Introduction
 
@@ -103,7 +103,7 @@ Sample output given an input image:
 ![Sample Prediction](project/sample_prediction.png)
 
 Prediction: REAL  
-Confidence: 0.024
+Confidence: 0.004
 
 # Installation
 
@@ -140,12 +140,6 @@ python train.py
 
 * Scikit-learn
 
-# Contributors
-
-* Sadique Nomani
-
-* Mayank Pandey
-
 # Future Work
 
 * Real-time webcam deepfake detection
@@ -153,3 +147,22 @@ python train.py
 * Video-based deepfake analysis
 
 * Model optimization for faster inference
+
+# Author
+
+*Sadique Nomani*  
+B.Tech Computer Science Engineering  
+Project Lead
+
+---
+
+# Contributors
+
+•⁠  ⁠*Mayank Pandey*  
+•⁠  ⁠Mansi Jain  
+•⁠  ⁠Vaishali Negi  
+•⁠  ⁠Vasudha Sharma  
+
+---
+
+This project demonstrates the application of face-based preprocessing using *MTCNN* and transfer learning with *VGG16* for high-accuracy deepfake image detection.
